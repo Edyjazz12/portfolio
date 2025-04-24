@@ -16,22 +16,12 @@ function App() {
         <h3>Proyectos Destacados</h3>
 
         <div className="card">
-          <h4>E-commerce Fullstack</h4>
-          <p>Sitio de ventas con carrito y CRUD de productos.</p>
-          <a href="https://github.com/Edyjazz12/ecommerce" target="_blank">Ver en GitHub</a>
+          <h4>todo-list-MERN</h4>
+          <p>Sitio de tareas con mern.</p>
+          <a href="https://github.com/Edyjazz12/todo-list-mern" target="_blank">Ver en GitHub</a>
         </div>
 
-        <div className="card">
-          <h4>App del Clima</h4>
-          <p>Consulta de clima actual con consumo de API.</p>
-          <a href="https://github.com/Edyjazz12/clima" target="_blank">Ver en GitHub</a>
-        </div>
-
-        <div className="card">
-          <h4>Juego Adivina el Número</h4>
-          <p>Juego interactivo hecho con JavaScript.</p>
-          <a href="https://github.com/Edyjazz12/juegoadivina" target="_blank">Ver en GitHub</a>
-        </div>
+      
       </section>
     </div>
   );
