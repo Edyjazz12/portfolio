@@ -1,12 +1,29 @@
-# React + Vite
+# 💼 Portafolio Profesional - Edy
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+¡Hola! 👋 Soy Edy, desarrollador Fullstack con experiencia en tecnologías modernas del ecosistema JavaScript. Este repositorio contiene mi portafolio web, donde comparto mis proyectos destacados.
 
-Currently, two official plugins are available:
+## 🛠 Tecnologías que uso
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React.js + Vite
+- Node.js + Express
+- MongoDB (Atlas)
+- Bootstrap, HTML, CSS
+- Git & GitHub
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Proyectos Destacados
+
+### ✅ [To-Do List MERN](https://github.com/Edyjazz12/todo-list-mern)
+Aplicación fullstack para gestionar tareas (CRUD) usando la pila MERN. Interfaz moderna con Bootstrap. Ideal para productividad personal.
+
+---
+
+## 📞 Contacto
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/eduardo-ortega-79bb30309/)
+- 📧 Email: eduelcuyano@hotmail.com.ar
+
+---
+
+> Este portafolio se mantiene actualizado con mis últimos trabajos. ¡Gracias por visitar!
