@@ -21,7 +21,12 @@ function App() {
           <a href="https://github.com/Edyjazz12/todo-list-mern" target="_blank">Ver en GitHub</a>
         </div>
 
-      
+        <div className="card">
+          <h4>app clima</h4>
+          <p>Aplicacion del clima .</p>
+          <a href="https://github.com/Edyjazz12/app-clima" target="_blank">Ver en GitHub</a>
+        </div>
+
       </section>
     </div>
   );
